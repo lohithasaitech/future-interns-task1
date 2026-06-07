@@ -4,7 +4,7 @@ Project Objective
 
 Analyze retail sales data and generate business insights using Python.
 
-Tools Used
+##Tools Used
 
 - Python
 - Pandas
